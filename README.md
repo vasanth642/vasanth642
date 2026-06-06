@@ -22,7 +22,7 @@
 
 <h3 align="center">💻 Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,js,typescript" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,typescript" />
 </p>
 
 <h3 align="center">🌐 Development</h3>
@@ -32,12 +32,18 @@
 
 <h3 align="center">🗄️ Database & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,git,linux" />
 </p>
 
 <h2 align="center">Hacktoberfest'25</h2>
 
 [![An image of @vasanth642's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vasanth642)](https://holopin.io/@vasanth642)
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vasanth642&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="assets/mario_tenor.gif" width="100%">
