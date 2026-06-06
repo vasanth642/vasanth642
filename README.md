@@ -10,11 +10,6 @@
   <img src="assets/about_me_github_vasanth.png" width="100%" alt=""about me banner>
 </p>
 
-<div align="center">
-<table>
-<tr>
-<td width="35%" valign="top">
-
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <h3 align="center">💻 Languages</h3>
@@ -32,23 +27,15 @@
   <img src="https://skillicons.dev/icons?i=mysql,firebase,git,linux" />
 </p>
 
+<br>
 
-</td>
+<p align="center">
+  <img src="./assets/mario_tenor.gif" width="75%">
+</p>
 
-<td width="65%" align="center">
+<br>
 
-<img src="./assets/mario_tenor.gif" width="100%">
-
-</td>
-</tr>
-</table>
-</div>
-
-<h2 align="center">Hacktoberfest'25</h2>
-
-[![An image of @vasanth642's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vasanth642)](https://holopin.io/@vasanth642)
-
-
+<h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vasanth-s-956998355/" target="_blank">
@@ -56,4 +43,18 @@
   </a>
 </p>
 
+<br>
 
+<h2 align="center">🌱 Open Source Contributions</h2>
+
+<p align="center">
+  Participating in Hacktoberfest and contributing to open-source projects.
+</p>
+
+<h3 align="center">🏆 Hacktoberfest'25</h3>
+
+<p align="center">
+  <a href="https://holopin.io/@vasanth642">
+    <img src="https://holopin.me/vasanth642" alt="Holopin Badges">
+  </a>
+</p>
