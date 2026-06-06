@@ -35,6 +35,8 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,docker,linux" />
 </p>
 
+<h2 align="center">Hacktoberfest'25</h2>
+
 [![An image of @vasanth642's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vasanth642)](https://holopin.io/@vasanth642)
 
 <p align="center">
