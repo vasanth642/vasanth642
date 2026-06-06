@@ -7,13 +7,10 @@
 </p>
 
 <p align="center">
-  B.Tech student specializing in Artificial Intelligence & Data Science.<br>
-  Aspiring Full Stack Developer, LeetCode enthusiast, and lifelong learner.<br>
-  Passionate about turning ideas into products and exploring the endless possibilities of software development.<br>
-  Outside tech, you'll find me maintaining freshwater aquariums, gardening, speedcubing, or working on fitness goals.
+  <img src="assets/about_me_github_vasanth.png" width="100%" alt=""about me banner>
 </p>
 
-<h2 align="center">Tech Stack</h2>
+<h1 align="center">Tech Stack</h1>
 
 <h3 align="center">💻 Languages</h3>
 <p align="center">
