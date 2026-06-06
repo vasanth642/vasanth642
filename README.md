@@ -23,3 +23,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vasanth642&show_icons=true&locale=en" alt="vasanth642" /></p>
 
+<p align="center">
+  <img src="assets/mario_tenor.gif" width="100%">
+</p>
+
