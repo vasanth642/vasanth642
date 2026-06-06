@@ -45,11 +45,7 @@
 
 <br>
 
-<h2 align="center">🌱 Open Source Contributions</h2>
-
-<p align="center">
-  Participating in Hacktoberfest and contributing to open-source projects.
-</p>
+<h2 align="center">Open Source Contributions</h2>
 
 <h3 align="center">🏆 Hacktoberfest'25</h3>
 
