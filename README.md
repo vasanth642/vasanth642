@@ -10,19 +10,19 @@
   <img src="assets/about_me_github_vasanth.png" width="100%" alt=""about me banner>
 </p>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h1 align="center">Tech Stack</h1>
 
-<h3 align="center">💻 Languages</h3>
+<h2 align="center">Languages</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,typescript" />
 </p>
 
-<h3 align="center">🌐 Development</h3>
+<h2 align="center">Development</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,tailwind" />
 </p>
 
-<h3 align="center">🗄️ Database & Tools</h3>
+<h2 align="center">Database & Tools</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,firebase,git,linux" />
 </p>
@@ -35,7 +35,7 @@
 
 <br>
 
-<h2 align="center">🤝 Connect With Me</h2>
+<h1 align="center">🤝 Connect With Me</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vasanth-s-956998355/" target="_blank">
@@ -45,9 +45,9 @@
 
 <br>
 
-<h2 align="center">Open Source Contributions</h2>
+<h1 align="center">Open Source Contributions</h1>
 
-<h3 align="center">🏆 Hacktoberfest'25</h3>
+<h2 align="center">🏆 Hacktoberfest'25</h2>
 
 <p align="center">
   <a href="https://holopin.io/@vasanth642">
