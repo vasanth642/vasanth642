@@ -12,7 +12,7 @@
 
 <h1 align="center">Projects</h1>
 
-<img align="left" src="./assets/icon.png" width="200" alt="RoninP2P">
+<img align="left" src="./assets/icon.png" width="190" alt="RoninP2P">
 
 <h3>RoninP2P</h3>
 
@@ -33,7 +33,7 @@ designed for transferring multi-gigabyte files directly between peers.
 
 <br>
 
-<img align="right" src="./assets/logo.png" width="260" alt="ValkyrieAlloc">
+<img align="right" src="./assets/logo.png" width="190" alt="ValkyrieAlloc">
 
 <h3>ValkyrieAlloc</h3>
 
