@@ -31,6 +31,28 @@ designed for transferring multi-gigabyte files directly between peers.
 
 <br clear="left">
 
+<br>
+
+<img align="right" src="./assets/logo.png" width="260" alt="ValkyrieAlloc">
+
+<h3>ValkyrieAlloc</h3>
+
+<p>
+A Zerops-native sub-millisecond in-memory allocation gate designed to handle
+high-concurrency flash-sale traffic with atomic Valkey Lua evaluations and
+asynchronous PostgreSQL persistence.
+</p>
+
+<p>
+<strong>Tech:</strong> Valkey · Lua · PostgreSQL · React · Tailwind CSS · Zerops 
+</p>
+
+<p>
+<a href="https://github.com/vasanth642/Valkyrie-Alloc">View Repository →</a>
+</p>
+
+<br clear="right">
+
 <h1 align="center">Tech Stack</h1>
 
 <h2 align="center">Languages</h2>
