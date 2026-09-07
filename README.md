@@ -2,14 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=48&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=1200&height=80&lines=Hi%2C+I'm+Vasanth" />
 </p>
 
-<p align="center">
-  <img src="assets/spheal-spheal-pokemon.gif" width="120"/>
-</p>
-
-<p align="center">
-  <img src="assets/about_me_github_vasanth.png" width="100%" alt=""about me banner>
-</p>
-
 <h1 align="center">Projects</h1>
 
 <img align="left" src="./assets/icon.png" width="190" alt="RoninP2P">
@@ -55,25 +47,40 @@ asynchronous PostgreSQL persistence.
 
 <h1 align="center">Tech Stack</h1>
 
-<h2 align="center">Languages</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,typescript" />
-</p>
-
-<h2 align="center">Development</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,tailwind" />
-</p>
-
-<h2 align="center">Database & Tools</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,git,linux" />
+  Technologies I use to build web applications and backend systems.
 </p>
 
 <br>
 
+<h3 align="center">Languages</h3>
+
 <p align="center">
-  <img src="./assets/mario_tenor.gif" width="75%">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript" />
+</p>
+
+<h3 align="center">Web Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,nodejs" />
+</p>
+
+<h3 align="center">Databases & Infrastructure</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,docker,linux" />
+</p>
+
+<h3 align="center">Systems & Networking</h3>
+
+<p align="center">
+  WebRTC · Socket.IO · Valkey · Lua
+</p>
+
+<h3 align="center">Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 <br>
