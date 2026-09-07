@@ -12,7 +12,7 @@
 
 <h1 align="center">Projects</h1>
 
-<img align="left" src="./assets/icon.png" width="230" alt="RoninP2P">
+<img align="left" src="./assets/icon.png" width="200" alt="RoninP2P">
 
 <h3>RoninP2P</h3>
 
