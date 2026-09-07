@@ -10,6 +10,27 @@
   <img src="assets/about_me_github_vasanth.png" width="100%" alt=""about me banner>
 </p>
 
+<h1 align="center">Projects</h1>
+
+<img align="left" src="./assets/icon.png" width="260" alt="RoninP2P">
+
+<h3>RoninP2P</h3>
+
+<p>
+A high-performance peer-to-peer file transfer system built with WebRTC,
+designed for transferring multi-gigabyte files directly between peers.
+</p>
+
+<p>
+<strong>Tech:</strong> React · Node.js · WebRTC · Socket.IO · Tailwind CSS
+</p>
+
+<p>
+<a href="https://github.com/vasanth642/RoninP2P">View Repository →</a>
+</p>
+
+<br clear="left">
+
 <h1 align="center">Tech Stack</h1>
 
 <h2 align="center">Languages</h2>
